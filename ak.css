@@ -1,26 +1,3 @@
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSS Font Size</title>
-
-    <link rel="stylesheet" href="ak.css">
-</head>
-<body>
-
-    <h1>Introduction to CSS</h1>
-
-    <p>
-        CSS is used to style HTML webpages and change the appearance
-        of elements such as headings and paragraphs.
-    </p>
-
-</body>
-</html>
-```
-```css
 h1 {
     font-size: 40px;
 }
@@ -28,5 +5,4 @@ h1 {
 p {
     font-size: 20px;
 }
-```
 
