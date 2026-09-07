@@ -4,30 +4,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Introduction to CSS</title>
-
+    <title>CSS Font Size</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
-    <h1>Introduction to CSS</h1>
+    <h1>Welcome to My Web Page</h1>
 
-    <p>
-        CSS is used to style and design HTML webpages.
-        It allows us to change the appearance of elements,
-        including their font size.
-    </p>
+    <p>This is a simple paragraph demonstrating how CSS can change font size.</p>
 
 </body>
 </html>
 ```
 ```css
 h1 {
-    font-size: 40px;
+    font-size: 36px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 18px;
 }
 ```
+
